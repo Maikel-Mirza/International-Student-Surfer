@@ -1,0 +1,16 @@
+.title {
+  text-emphasis-color: black;
+  background-color: blue;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+}
+
+.description {
+  text-emphasis-color: black;
+  background-color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+  border-width: 10px;
+  border-radius: 12px;
+}
+

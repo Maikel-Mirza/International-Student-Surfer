@@ -1,0 +1,64 @@
+{
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo/react-native-action-sheet": "^4.0.1",
+    "@firebase/auth": "^0.23.2",
+    "@react-native-async-storage/async-storage": "1.17.11",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.17",
+    "@rneui/themed": "^4.0.0-rc.7",
+    "axios": "^1.4.0",
+    "expo": "^48.0.7",
+    "expo-app-loading": "^2.1.1",
+    "expo-constants": "~14.2.1",
+    "expo-font": "~11.1.1",
+    "expo-image-picker": "^14.1.1",
+    "expo-linking": "~4.0.1",
+    "expo-location": "^16.0.0",
+    "expo-router": "^1.2.0",
+    "expo-splash-screen": "~0.18.1",
+    "expo-status-bar": "~1.4.2",
+    "firebase": "^9.23.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+<<<<<<< HEAD
+    "react-native": "0.71.3",
+    "react-native-dropdown-picker": "^5.4.6",
+=======
+    "react-native": "0.71.8",
+>>>>>>> e1ed6d201f8b128cd3b3cc8335c34d2baa6af8c0
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-maps": "^1.7.1",
+    "react-native-paper": "^5.9.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-safe-area-context": "^4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "~0.18.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@expo/webpack-config": "^18.1.1"
+  },
+  "resolutions": {
+    "metro": "^0.73.7",
+    "metro-resolver": "^0.73.7"
+  },
+  "overrides": {
+    "metro": "^0.73.7",
+    "metro-resolver": "^0.73.7"
+  },
+  "name": "rnss23-group-internationalstudentsurfer",
+  "version": "1.0.0",
+  "private": true
+}
