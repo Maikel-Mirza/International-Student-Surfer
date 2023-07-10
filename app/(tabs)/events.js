@@ -9,7 +9,7 @@ export default function Users() {
   const router = useRouter();
   const [event, setEvents] = useState([]);
 
-  useEffect(() => {
+  useEffect(() => { 
     async function getEvents() {
       const response = await fetch(
         "https://unisurf-de1e3-default-rtdb.europe-west1.firebasedatabase.app/test.json"
