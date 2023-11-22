@@ -19,7 +19,7 @@ export default function PostModal() {
   const [image, setImage] = useState("");
   const router = useRouter();
 
-  const API_URL = "https://expo-post-app-default-rtdb.firebaseio.com";
+  const API_URL = "https://controller-47601-default-rtdb.firebaseio.com/";
 
   useEffect(() => {
     async function getPost() {
